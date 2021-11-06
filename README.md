@@ -38,5 +38,6 @@ PlanMyTrip tasked me with collection additional weather data and using user choi
 
 
 ### Challenge Results
+![WeatherPy_vacation_map](https://user-images.githubusercontent.com/90879979/140620145-bc54f02f-939c-489b-aed1-445bedcf5def.png)
 ![WeatherPy_travel_map](https://user-images.githubusercontent.com/90879979/140619956-66801f1a-a569-4c69-8780-b6556b619cb5.png)
 ![WeatherPy_travel_map_markers](https://user-images.githubusercontent.com/90879979/140619959-25d6400d-09ae-4437-afce-a11ecc60555a.png)
